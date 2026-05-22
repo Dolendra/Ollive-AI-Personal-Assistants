@@ -1,0 +1,4 @@
+deployment,cost_per_1k_req_usd,avg_latency_s,notes
+"HF Spaces (CPU, Qwen2.5-0.5B)",~0 (free tier),3–15,Public demo; cold start on free CPU
+Local OSS (CPU),0,5–30,No API cost; RAM-bound
+Groq llama-3.3-70b-versatile,~0 (free tier),0.5–2,Frontier assistant + eval judge; rate limits apply

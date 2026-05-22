@@ -447,7 +447,7 @@ Prompts are in [`evaluation/prompts.json`](evaluation/prompts.json).
 
 ## 📮 Submission
 
-- **GitHub:** `https://github.com/Dolendra/Ollive-AI-Personal-Assistants`
+- **GitHub:** https://github.com/Dolendra/Ollive-AI-Personal-Assistants
 - **Evaluation PDF:** [`docs/evaluation_report.pdf`](docs/evaluation_report.pdf)
 - **OSS Demo:** https://huggingface.co/spaces/Dolendra/ollive-oss-assistant
 - **Frontier Demo:** https://huggingface.co/spaces/Dolendra/ollive-frontier-assistant

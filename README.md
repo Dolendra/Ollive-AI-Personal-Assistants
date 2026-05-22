@@ -1,4 +1,4 @@
-# 🤖 AI Personal Assistant Comparison — Ollive Task
+# 🤖 AI Personal Assistant Comparison and Evaluation — Ollive Task
 
 A production-grade, side-by-side comparison of two personal AI assistants built to the same specification — one powered by an open-source model, one by a frontier model API. Both share identical system prompts, guardrails, memory, and tool use so the evaluation isolates model and provider differences fairly.
 
